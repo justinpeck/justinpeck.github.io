@@ -1,6 +1,0 @@
----
-layout:     post
-title:      50to50 - Month Two
-tags:       [personal, 50to50]
----
-We're still going!

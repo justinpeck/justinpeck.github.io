@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    display: grid;
+    background-color: #464646;
+    color: #dccca3;
+  }
+
+span {
+    margin: auto;
+}
+
+.hello {
+    font-size: 3em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
